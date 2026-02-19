@@ -100,7 +100,7 @@ Artefact AI: Albert Einstein foi um físico teórico alemão... (Resposta direta
 
 ---
 
-## Melhorias sugeridas
+## Possiveis pontos de melhoras com mais tempo
 
 * Persistir histórico de mensagens no `localStorage`.
 * Adicionar feedback visual de erro (`Snackbar`).
@@ -113,4 +113,4 @@ Artefact AI: Albert Einstein foi um físico teórico alemão... (Resposta direta
 
 ## Observações
 
-Este frontend foi desenvolvido para ser simples, bonito e interativo, focando em **experiência do usuário** e **comunicação eficiente com o backend**. Ele serve como base para
+Este frontend foi desenvolvido para ser simples, bonito e interativo, focando em experiência do usuário e comunicação eficiente com o backend. Ele serve como base para integrar novos modelos, melhorar UX ou adicionar funcionalidades avançadas de chat com IA.
