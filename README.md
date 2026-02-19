@@ -46,7 +46,7 @@ O projeto é feito em **React** com **Material-UI** e fornece uma experiência l
 1. Clone o repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/P3dream/frontend-llm-artefact-ai
 cd frontend
 ```
 
